@@ -1,0 +1,13 @@
+input, div {
+    font-size: 28px;
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+.country {
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+.well {
+  margin-top: 24px;
+}
+p {
+  font-size: 22px;
+}
